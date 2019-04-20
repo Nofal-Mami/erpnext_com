@@ -49,9 +49,7 @@ has to contact the lead next.
 ### 2. Features
 #### 2.1 Creation via Portal
 
-If a someone creates an account through the website interface is Lead is automatically created, status is Open and the Owner is the webuser.
 
-After registration the webform Addresses is called, where the web user can enter address information.The address is linked to the lead using the **Lead Name-Address Type** as ID.
 
 If using the Cart functionality, items are ordered the Lead is Converted and a Customer is created using the Web-User Name. Because a Customer can only be linked to a webuser using the (foreign) ID in Contact, such contact has to be created as well.
 
